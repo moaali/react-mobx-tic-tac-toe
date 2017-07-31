@@ -1,0 +1,18 @@
+#reset {
+  background: #f91616;
+  margin-top: 1em;
+  color: #fff;
+  border: 0;
+  box-shadow: none;
+  width: 100%;
+  padding: 1em 1.5em;
+  text-align: center;
+  position: relative;
+  outline: 0 !important;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background: #b91616
+  }
+}
