@@ -30,7 +30,7 @@ const
 const
   config = {
     output: {
-      publicPath : '/',
+      publicPath : '',
       path       : path.join(__dirname, '../build'),
     },
 
